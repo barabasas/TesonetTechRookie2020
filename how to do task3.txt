@@ -1,0 +1,4 @@
+I am not done this and I was expecting task for frontend :), but I think I would do it something like it say in link below:
+
+https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
+
